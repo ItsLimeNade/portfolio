@@ -14,7 +14,7 @@
     }
 }
 
-/* .fadeIn {
+.fadeIn {
     animation: fadeIn 3s linear
 }
 
@@ -30,7 +30,7 @@
     100% {
         opacity: 1;
     }
-} */
+}
 
 .thingy {
     background-repeat: repeat;
