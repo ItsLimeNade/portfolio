@@ -1,2 +1,0 @@
-# portfolio
-Just my portfolio
