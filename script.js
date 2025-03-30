@@ -26,3 +26,7 @@ document.querySelectorAll('.project-icon').forEach(icon => {
         }, 500);
     });
 });
+
+document.getElementById('quote').textContent = ["Certified Spaghetti Code Chef", "Full-Stack Overflow Developer",
+    "Runtime Error Enthusiast", 'Bug Creator & Occasional Fixer',
+    "Commit, Push, Pray", "Writes Code, Regrets It Later"][Math.floor(Math.random() * 6)];
